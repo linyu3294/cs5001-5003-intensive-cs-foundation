@@ -1,0 +1,21 @@
+
+'''   
+   Yu Lin
+   CS5001 - Spring 2019
+   HW3 (List and Loops)
+   Feb 1, 2019 
+'''
+
+
+1)  user_in == 'N'
+
+2A) 1, 2, 3, 5, 2, 3, 4, 6
+2B) 'i is 1'
+2C) 2 times
+2D) 'i is 4'
+
+3)  3
+
+4A) 1 2 3
+4B) 1 2 3
+4C) 0 0 0

@@ -1,0 +1,18 @@
+'''
+   Yu Lin
+   CS5001 - Spring 2019
+   HW1 (Fuctions and Conditionals)
+   Jan 17, 2019 
+'''
+
+1A prints 'dabba' first and then 'yabba'
+1B prints 'dabba' first and then 'yabba' twice
+1C prints 'dabba' first and then 'yabba' and finally 'dabba'
+
+2A print_formatted ('Hello World')
+2B max = get_max (2, 4)
+2C new_number = log_base_two (4)
+
+3A Nothing
+3B Hello World
+3C x = 5

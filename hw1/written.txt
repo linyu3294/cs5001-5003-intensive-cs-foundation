@@ -1,0 +1,30 @@
+'''
+    Yu Lin
+    CS5001 - Spring 2019
+    HW1 (data types and arithmetic operations)
+    Jan 13, 2019
+
+    Consulted Lab 1 work I did for question number 4 regarding how to format 2 decimals
+'''
+
+
+1A  Float
+1B  Integer
+1C  Integer
+1D  Float
+1E  String
+1F  String 
+1G  String
+
+2A  1.4 (Float)
+2B  1.4 (Float)
+2C  1 (Integer)
+2D  2 (Integer)
+
+3 
+To be able to print the text literally, you need to put single quotes around 'hellolaney'. 
+Without them, the program thinks that it's a variable. And the program will throw an error because the variable wass never initialized.
+
+4
+print ('{:0.2f}'.format(amount))
+

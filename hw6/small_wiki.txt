@@ -1,0 +1,167 @@
+REVISION 6216 36060989 Chinese_room 2006-01-21T06:45:52Z Taejo 283782
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Heart Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT /* Thought experiments */ marked journal title
+MINOR 1
+TEXTDATA 2032
+
+REVISION 6216 36063203 Chinese_room 2006-01-21T07:13:07Z ip:66.112.232.43 ip:66.112.232.43
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT removed nonsensical link to article on biological heart
+MINOR 0
+TEXTDATA 2035
+
+REVISION 6216 37004804 Chinese_room 2006-01-27T22:38:12Z Ajvol 102531
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT +ru
+MINOR 1
+TEXTDATA 2034
+
+REVISION 6216 37967547 Chinese_room 2006-02-03T06:50:21Z ip:194.109.243.248 ip:194.109.243.248
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT added additional reply in 'other replies'
+MINOR 0
+TEXTDATA 2110
+
+REVISION 6216 37970690 Chinese_room 2006-02-03T07:36:10Z Sillybilly 282350
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER Sillybilly
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT /* Other replies */
+MINOR 0
+TEXTDATA 2280
+
+REVISION 6216 37970751 Chinese_room 2006-02-03T07:37:15Z Sillybilly 282350
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Daniel_Dennett Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Douglas_Hofstadter Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT ooops.. thought this was a talk page.. revert
+MINOR 0
+TEXTDATA 2110
+
+REVISION 6216 39009922 Chinese_room 2006-02-10T02:39:53Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT
+MINOR 0
+TEXTDATA 2060
+
+REVISION 6216 39010270 Chinese_room 2006-02-10T02:42:31Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT /* Thought experiments */
+MINOR 0
+TEXTDATA 2059
+
+REVISION 6216 39012795 Chinese_room 2006-02-10T03:02:59Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT /* Other replies */
+MINOR 0
+TEXTDATA 1943
+
+REVISION 6216 39013150 Chinese_room 2006-02-10T03:05:53Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT
+MINOR 0
+TEXTDATA 1941
+
+REVISION 6216 39014535 Chinese_room 2006-02-10T03:17:51Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT
+MINOR 0
+TEXTDATA 1956
+
+REVISION 6216 39015188 Chinese_room 2006-02-10T03:23:33Z ip:194.73.101.85 ip:194.73.101.85
+CATEGORY Thought_experiments Philosophy_of_mind
+IMAGE
+MAIN Thought_experiment AI Functionalism_(philosophy_of_mind) Strong_AI Strong_AI Stevan_Harnad Cognitive_science Syntax Semantics Weak_AI Twentieth_century John_Searle Turing_test
+TALK
+USER
+USER_TALK
+OTHER  Dummy information replacing line with non-ascii char
+EXTERNAL http://members.aol.com/wutsamada/disserta.html http://www.bbsonline.org/ http://plato.stanford.edu/entries/chinese-room/ http://globetrotter.berkeley.edu/people/Searle/searle-con0.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html http://cogprints.org/4023/ http://samvak.tripod.com/chinese.html http://members.aol.com/lshauser2/chinabox.html http://www.bbsonline.org/Preprints/OldArchive/bbs.searle2.html
+TEMPLATE
+COMMENT
+MINOR 0
+TEXTDATA 1956
